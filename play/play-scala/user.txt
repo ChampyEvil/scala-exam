@@ -1,0 +1,16 @@
+Username      Password          Location
+AIS000110     AIS#000110        1010279
+G000110       G#000110          1010432
+G000111       G#000111          1010446
+AS000110      AS#000110         35031
+MS000110      MS#000110         46445
+OS000110      OS#000110         46655
+MS000111      MS#000111         46748
+MS000112      MS#000112         46852
+RS000110      RS#000110         47310
+TW009908      Tw@009908         97439
+ac013509      Ac@013509         97592
+TW_mctest     1Tw@mctest        97439
+AC_mctest     1Ac@mctest        97592
+KITTISKR      KITTISKR          63565
+jaruwann      jaruwann          63549

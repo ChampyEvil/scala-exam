@@ -1,0 +1,16 @@
+INFO  time: initialize in 0.31s
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam/lightbend'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/lightbend/hello-scala/src/main/scala/example/Hello.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.29s
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam/lightbend'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/lightbend/play-samples-play-scala-hello-world-tutorial/app/controllers/HomeController.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/lightbend/play-samples-play-scala-hello-world-tutorial/app/controllers/HomeController.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam/lightbend'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam/lightbend'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/lightbend/play-samples-play-scala-hello-world-tutorial/app/controllers/HomeController.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/lightbend/play-samples-play-scala-hello-world-tutorial/app/controllers/HomeController.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/lightbend/play-samples-play-scala-hello-world-tutorial/app/controllers/HomeController.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/lightbend/play-samples-play-scala-hello-world-tutorial/app/controllers/HomeController.scala
+INFO  shutting down Metals

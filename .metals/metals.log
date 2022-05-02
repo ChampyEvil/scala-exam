@@ -1,0 +1,162 @@
+INFO  time: initialize in 0.3s
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+Jul 24, 2019 4:15:23 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jul 24, 2019 4:15:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+Jul 24, 2019 4:17:22 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jul 24, 2019 4:17:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+Jul 24, 2019 4:17:22 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jul 24, 2019 4:17:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+Jul 24, 2019 4:17:28 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jul 24, 2019 4:17:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.HoverProvider.typedHoverTreeAt(HoverProvider.scala:230)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:24)
+
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+Jul 24, 2019 4:21:52 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jul 24, 2019 4:21:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+something's wrong: no file:///Users/champyevil/train/scala-exam/hello-world.scala in Option[Boolean]RangePosition(file:///Users/champyevil/train/scala-exam/hello-world.scala, 1286, 1286, 1301)
+something's wrong: no file:///Users/champyevil/train/scala-exam/hello-world.scala in Option[Boolean]RangePosition(file:///Users/champyevil/train/scala-exam/hello-world.scala, 1286, 1286, 1301)
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+INFO  time: initialize in 0.36s
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/create-csv.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/create-csv.scala
+INFO  no build target: using presentation compiler with only scala-library
+Aug 08, 2019 7:58:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Aug 08, 2019 7:58:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/create-csv.scala
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/create-csv.scala
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/champyevil/train/scala-exam'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/champyevil/train/scala-exam/create-csv.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.37s
+WARN  no build target: /Users/champyevil/train/scala-exam/hello-world.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/create-csv.scala
+WARN  no build target: /Users/champyevil/train/scala-exam/play/play-scala/build.sbt
+WARN  no build target: /Users/champyevil/train/scala-exam/play/play-scala/app/controllers/HomeController.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals
